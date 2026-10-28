@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+node_modules/
+dist/
+backend/venv/
+backend/.env
+frontend/.env
+backend/data/knowledge_assistant.db
+backend/data/chroma/
+backend/data/uploads/*
+!backend/data/uploads/.gitkeep
